@@ -1,0 +1,22 @@
+/* Adjust sidebar width */
+.sidebar {
+  width: 24rem;  /* Default is 18rem, increase as needed */
+}
+
+/* Adjust content area to account for wider sidebar */
+@media (min-width: 48em) {
+  .sidebar {
+    width: 24rem;
+  }
+  .content {
+    margin-left: 26rem;  /* Should be sidebar width + 2rem */
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 26rem;  /* Keep consistent with above */
+    margin-right: 4rem;
+  }
+}

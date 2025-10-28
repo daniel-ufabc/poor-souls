@@ -1,0 +1,13 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.1}Getting Started}{5}{}%
+\contentsline {subsection}{\numberline {1.1.1}Key Features}{5}{}%
+\contentsline {chapter}{\numberline {2}Main Content}{7}{}%
+\contentsline {section}{\numberline {2.1}Your First Section}{7}{}%
+\contentsline {section}{\numberline {2.2}Another Section}{7}{}%
+\contentsline {subsection}{\numberline {2.2.1}Detailed Discussion}{7}{}%
+\contentsline {chapter}{\numberline {3}Advanced Topics}{9}{}%
+\contentsline {section}{\numberline {3.1}Implementation Details}{9}{}%
+\contentsline {section}{\numberline {3.2}Best Practices}{9}{}%
+\contentsfinish 
+\contentsline {chapter}{\numberline {4}Conclusion}{11}{}%

@@ -1,0 +1,42 @@
+# Décimo terceiro dia -- As almas negligenciadas
+
+
+**Oremos.** Senhor, escutai as orações que Vos ofereceremos todos os dias deste mês, pela consolação de nossos irmãos e irmãs falecidos, e concedei-lhes um lugar de descanso, de luz e de paz! Escutai também as orações que essas almas Vos oferecerão por nossa intenção, para que possamos finalmente obter, através da sua intercessão, as graças que Vos pedimos.
+
+
+## Esquecidas por seus amigos
+
+Considerai que existe no fundo do Purgatório uma multidão de almas inteiramente esquecidas, por quem ninguém se interessa, e que sofrem sem consolações. A Igreja, é verdade, não esquece nenhum de seus filhos, e as almas de que falamos se beneficiam como as outras das orações que esta mãe carinhosa dirige todos os dias ao Senhor em favor dos defuntos. Mais, além dessas orações gerais, não lhes vem da terra nenhum socorro particular. Elas são, em primeiro lugar, abandonadas por seus amigos que lhes prometeram e juraram uma afeição indestrutível. Mas como essa amizade era puramente humana e misturada de muito egoísmo, ela desapareceu com o último badalar do sino. Que excesso de aflição não causa a essas pobres almas este esquecimento tão inesperado. Ah! Escutai a estas justas reprovações que elas dirigem àqueles que tão depressa esqueceram dos deveres da amizade: Tende piedade de nós, vós que ao menos foram nossos amigos! Nós vos demos tantas provas de nosso afeto e de nossa estima sobre a terra! Vós afrimastas tantas vezes o vosso amor! Vós prometestes durante nossa última hora que não nos esqueceríeis jamais! Ai de nós! Vós não pensais mais em nós. Nenhuma oração, nenhuma esmola, nenhuma lágrima, nenhum suspiro. Porque estamos longe de vossos olhos, vós nos banistes de vosso coração. Ó inconstância do amor humano, como dis Bossuet, com os anos e os interesses!
+
+Não são estas reprovações dirigidas também a vós, alma cristã? Pensais alguma vez nos amigos de infância, da juventude, que a morte vos tirou, e que sofrem, talvez, por vos terem amado demais? São Francisco de Sales dizia: _Esses queridos falecidos, nós os esquecemos quase sempre, e no entanto, eles nos amaram tanto em vida!_ Ah! Devemos temer ser esquecidos quando chegar a nossa vez, pois está escrito que quem esquece será esquecido, _si quis ignorat ignorabitur_.
+
+
+## Esquecido pelos familiares
+
+Esquecida por seus amigos, estas pobres almas de quem falamos são também esquecidas por seus parentes, seja porque eles não existem mais neste mundo, seja porque eles renunciaram a todo sentimento de caridade e de reconhecimento. Sim, seu pai, sua mãe, seus irmãos, suas irmãs, seus herdeiros, as abandonaram. Para todo lugar a que voltam seus olhares, não encontram nada além de esquecimento, de negligência. O esquecimento de toda sua vida, da qual nenhuma palavra se fala a respeito. O esquecimento de seu nome, que ninguém mais pronuncia. O esquecimento de seu túmulo, que não recebe mais visita nem oração. O esquecimento de sua morte, que ninguém mais chora. O esquecimento de seus sofrimentos depois da morte, que ninguém procura mitigar. Esquecimento em todo lugar e sempre. Pobres almas! Quem sabem quanto durarão suas dores, sua estadia neste terrível Purgatório onde elas não recebem nenhum socorro? Como este cruel isolamento deve aumentar seus sofrimentos! Ah! Elas têm o direito de clamar como Jó (Jó 19:13-14): _Meus irmãos foram para longe de mim, meus amigos de mim se afastaram. Meus parentes e meus conhecidos desapareceram, os hóspedes de minha casa esqueceram-se de mim._ Ou como o Salmista (Salmo 31:12): _Estou esquecido no coração deles, como um morto; sou como um vaso quebrado._ Ou como Jesus, abandonado por todos no jardim do Getsêmani, elas podem dizer (Salmo 69:20): _Esperei por alguém que tivesse compaixão, mas não houve nenhum; e por consoladores, mas não os achei._ 
+
+Alma cristã, rezai frequentemente, dai esmolas, fazei comunhões pelos mortos mais esquecidos. Tomai o lugar de pai, de mãe, de irmão, de irmã e de amigo. Existe obra mais digna de vosso zelo e de vossa caridade? Um dia, eles rezarão por vós, se, o que é provável, vossos parentes e vossos herdeiros vos esquecerem e vos abandonarem.
+
+
+## Exemplo 
+
+Há alguns anos, em uma paróquia rural, um crime pavoroso veio consternar os corações e revoltar a natureza. Um jovem, endurecido pelas paixões que tornam os corações ferozes, teve a crueldade de conspirar com um infame comparsa a morte da própria mãe, e esses dois executores a jogaram numa lagoa de águas turvas. A pobre mãe se debatia e estendia os braços em direção aos assassinos. O estranho, com sua mão, repelia a infeliz mulher que tentava se agarrar à margen. Mais o filho, por mais canalha que fosse, quando viu sua mãe estender a ele aqueles braços que o carregaram, de repente caiu em si, vencido pela natureza. Ele começou a estender a mão para retirá-la das águas, e de fato o teria feito, se o infame cúmplice não tivesse, de súbito, a empurrado para longe e a mergulhado na morte. 
+
+Há nesse lago invisível do Purgatório, alguns amigos, alguns conhecidos, alguns familiares que podemos dali retirar. Talvez nos mesmos tenhamos contribuido para precipitá-los nessas chamas. Sim, talvez tenhamos jogado lá um irmão, um pai, uma mãe! E enguanto pensamos apenas em nossos prazeres, eles se debatem nesse terrível suplício. Eles choram, eles gritam, eles nos chamam, eles nos estendem as mãos. Não os libertaremos?
+
+Pobres almas! Vós sois nossos irmãos em Jesus Cristo, nós seremos para vós um pai, uma mãe, um irmão, uma irmã, nós seremos vossos amigos, vossos salvadores. E, um dia, vireis tambem em nossa ajuda. 
+
+
+**Oremos.** Ó Jesus! Abandonado por todos e até mesmo pelos vossos apóstolos, no jardim do Getsêmani, dignai-Vos ter piedade de todas as santas almas do Purgatório, e em particular daquelas que não recebem nem orações nem consolações da parte dos viventes, daquelas cujas datas de nascimento e de morte não são mais lembradas. Sede seu consolador, seu libertador. Ó Jesus, chamai enfim estes filhos esquecidos ao seio da família do Céu. Que descansem em paz! 
+
+
+## Orações 
+
+Em seguida, reze cada dia:
+
+- Uma dezena do terço pelos falecidos (1 Pai Nosso, 10 Ave Marias, 1 Glória ao Pai)
+- [Ladainha pelos fiéis defuntos](ladainha.md)
+- [Credo](credo.md)
+- [Salve Rainha](salve_rainha.md)
+- [Oração pelas almas do purgatório](oracao_pelas_almas.md)
+- [De Profundis](de_profundis.md)

@@ -1,0 +1,230 @@
+\documentclass[11pt,twoside,openright,twocolumn]{book}
+
+% =============================================================================
+% PACKAGES
+% =============================================================================
+
+% Font and encoding
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Try Latin Modern, fall back to default if not available
+\IfFileExists{lmodern.sty}{%
+    \usepackage{lmodern}
+}{%
+    \PackageWarning{template}{Latin Modern not found, using default fonts}
+}
+
+% Microtype for better typography (optional)
+\IfFileExists{microtype.sty}{%
+    \usepackage{microtype}
+}{%
+    \PackageWarning{template}{Microtype not found, proceeding without}
+}
+
+% Page layout and geometry
+\usepackage[
+    paperwidth=6in,
+    paperheight=9in,
+    margin=0.6in,
+    bindingoffset=0.2in,
+    columnsep=0.3in
+]{geometry}
+
+% Language and typography
+\usepackage[english]{babel}
+\usepackage{csquotes}          % Proper quotation marks
+
+% Colors and graphics
+\usepackage{xcolor}
+\definecolor{darkblue}{RGB}{25,25,112}
+\definecolor{lightgray}{RGB}{245,245,245}
+
+% Headers and footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+% Table of contents and sectioning
+\usepackage{titlesec}
+\usepackage{titletoc}
+
+% Miscellaneous
+\usepackage{graphicx}
+
+% =============================================================================
+% FORMATTING CUSTOMIZATIONS
+% =============================================================================
+
+% Chapter formatting - spans both columns
+\titleformat{\chapter}[display]
+    {\normalfont\huge\bfseries\color{darkblue}}
+    {\chaptertitlename\ \thechapter}
+    {10pt}
+    {\Huge}
+\titlespacing*{\chapter}{0pt}{*2}{*3}
+
+% Section formatting (replacing chapter formatting for article class)
+\titleformat{\section}[display]
+    {\normalfont\huge\bfseries\color{darkblue}}
+    {\thesection}
+    {10pt}
+    {\Huge}
+
+% Section formatting  
+\titleformat{\section}
+    {\normalfont\Large\bfseries\color{darkblue}}
+    {\thesection}
+    {1em}
+    {}
+
+% Subsection formatting
+\titleformat{\subsection}
+    {\normalfont\large\bfseries\color{darkblue}}
+    {\thesubsection}
+    {1em}
+    {}
+
+% Header and footer styling
+\fancyhf{}
+\fancyhead[LE]{\small\leftmark}
+\fancyhead[RO]{\small\rightmark}
+\fancyfoot[LE,RO]{\small\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Plain page style for chapter beginnings
+\fancypagestyle{plain}{%
+    \fancyhf{}
+    \fancyfoot[C]{\small\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+
+% Line spacing
+\linespread{1.1}
+
+% Paragraph formatting
+\setlength{\parindent}{1.2em}
+\setlength{\parskip}{0pt plus 0.5pt}
+
+% =============================================================================
+% DOCUMENT INFORMATION
+% =============================================================================
+
+\title{Your Booklet Title}
+\author{Your Name}
+\date{\today}
+
+% =============================================================================
+% DOCUMENT CONTENT
+% =============================================================================
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+    \onecolumn  % Force single column for title page
+    \centering
+    \vspace*{2cm}
+    
+    {\huge\bfseries\color{darkblue} Your Booklet Title \par}
+    \vspace{1cm}
+    {\Large A Subtitle if Needed \par}
+    
+    \vspace{3cm}
+    {\Large\itshape Your Name \par}
+    
+    \vfill
+    
+    \begin{center}
+        \rule{4cm}{0.5pt} \\[0.5cm]
+        {\large \today}
+    \end{center}
+    
+    \vspace{2cm}
+\end{titlepage}
+
+% Table of contents
+\onecolumn  % Single column for TOC
+\tableofcontents
+\cleardoublepage
+\twocolumn  % Resume two-column layout
+
+% =============================================================================
+% MAIN CONTENT
+% =============================================================================
+
+\chapter{Introduction}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+This booklet demonstrates a clean, modern typography approach using the best available fonts. The layout is designed to be both professional and approachable.
+
+\section{Getting Started}
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+\subsection{Key Features}
+
+This template includes:
+\begin{itemize}
+    \item Clean, readable typography with proper book-style chapters
+    \item Professional page layout with appropriate margins
+    \item Elegant chapter and section styling with color accents
+    \item Proper headers and footers for book format
+    \item Enhanced readability features
+\end{itemize}
+
+\chapter{Main Content}
+
+\section{Your First Section}
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+
+Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+
+\section{Another Section}
+
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+
+Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+
+\subsection{Detailed Discussion}
+
+Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+
+\chapter{Advanced Topics}
+
+\section{Implementation Details}
+
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+
+\section{Best Practices}
+
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+\chapter{Conclusion}
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+
+% =============================================================================
+% BACK MATTER
+% =============================================================================
+
+% Bibliography (if needed)
+% \bibliographystyle{plain}
+% \bibliography{references}
+
+% Index (if needed)
+% \printindex
+
+\end{document}
