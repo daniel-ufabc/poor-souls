@@ -1,4 +1,8 @@
-# Quinto dia -- Sofrimentos do Purgatório, a pena do fogo
+---
+layout: page
+title: Quinto dia -- Sofrimentos do Purgatório, a pena do fogo
+display: Quinto dia
+---
 
 
 **Oremos.** Senhor, escutai as orações que Vos ofereceremos todos os dias deste mês, pela consolação de nossos irmãos e irmãs falecidos, e concedei-lhes um lugar de descanso, de luz e de paz! Escutai também as orações que essas almas Vos oferecerão por nossa intenção, para que possamos finalmente obter, através de sua intercessão, as graças que Vos pedimos.

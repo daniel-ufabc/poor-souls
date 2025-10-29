@@ -1,6 +1,7 @@
 ---
 layout: page
 title: De Profundis
+display: De Profundis
 ---
 
 Das profundezas do abismo, clamei a Vós, Senhor: escutai minha oração.  

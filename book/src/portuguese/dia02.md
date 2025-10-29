@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Segundo dia -- O Purgatório
+display: Segundo dia
 ---
 
-**Oremos.** Senhor, escutai as orações que Vos ofereceremos todos os dias deste mês, pela consolação de nossos irmãos e irmãs falecidos, e concedei-lhes um lugar de descanso, de luz e de paz! Escutai também as orações que essas almas Vos oferecerão por nossa intenção, para que possamos finalmente obter, através de sua intercessão, as graças que Vos pedimos.
+{% capture my_include %}{% include initial-prayer.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 
 ## O que é o Purgatório?
@@ -34,14 +36,5 @@ idoso, moldado pela piadade de outros tempos, revestido de todas as virtudes cri
 
 **Oremos.** Meu Deus, eu adoro vossos decretos eternos; confesso que o purgatório, que reconcilia vossa justiça e vossa misericórdia, é uma invenção do vosso Amor. Fazei, Senhor, que eu evite, pela penitência, este lugar de penas e privações, e que minha oração obtenha de vossa indulgência paternal o fim do exílio dessas almas sofredoras que vos clamam com tantto ardor. Ó Jesus, lhes sejais propício! Senhor, chamai vossos filhos, nossos irmãos, ao repouso eterno. Que a luz que nunca se apaga brilhe sobre eles! Que descansem em paz!
 
-
-## Orações 
-
-Em seguida, reze cada dia:
-
-- Uma dezena do terço pelos falecidos (1 Pai Nosso, 10 Ave Marias, 1 Glória ao Pai)
-- [Ladainha pelos fiéis defuntos](ladainha.md)
-- [Credo](credo.md)
-- [Salve Rainha](salve_rainha.md)
-- [Oração pelas almas do purgatório](oracao_pelas_almas.md)
-- [De Profundis](de_profundis.md)
+{% capture my_include %}{% include end-prayers.md %}{% endcapture %}
+{{ my_include | markdownify }}

@@ -29,6 +29,8 @@ url: "https://pobresalmas.com" # the base hostname & protocol for your site, e.g
 # twitter_username: 
 github_username: daniel-ufabc
 
+version: "1.0.0"
+
 # Google Analytics
 google_analytics: G-QEX80M0BJK
 

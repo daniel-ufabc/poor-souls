@@ -1,4 +1,9 @@
-# Ladaínha pelas almas do Purgatório
+---
+layout: page
+title: Ladaínha pelas almas do Purgatório
+display: Ladaínha
+---
+
 
 Senhor, _tende piedade de nós._  
 Jesus Cristo, _tende piedade de nós._  

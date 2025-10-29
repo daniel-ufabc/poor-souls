@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terceiro dia -- Existência do Purgatório, parte I
+display: Terceiro dia
 ---
 
 

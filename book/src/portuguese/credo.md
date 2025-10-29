@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Credo
+title: Credo &mdash; Símbolo dos Apóstolos
+display: Credo
 ---
-
-## Símbolo dos Apóstolos
 
 Creio em Deus, Pai todo-poderoso, Criador do Céu e da Terra.
 E em Jesus Cristo, seu único Filho, nosso Senhor;

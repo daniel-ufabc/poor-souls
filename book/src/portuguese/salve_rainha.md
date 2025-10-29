@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Salve Rainha
+display: Salve Rainha
 ---
 
 Salve, Rainha, 
