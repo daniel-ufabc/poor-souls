@@ -1,0 +1,83 @@
+<!-- Cookie Consent Banner -->
+<div id="cookie-consent" style="position: fixed; bottom: 0; left: 0; right: 0; background: #333; color: white; padding: 1rem; display: none; z-index: 1000;">
+  <div style="max-width: 60rem; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+    <p style="margin: 0; padding-right: 1rem;">We use cookies to analyze site traffic. By continuing, you consent to our use of cookies.</p>
+    <div>
+      <button onclick="acceptCookies()" style="background: #4CAF50; color: white; border: none; padding: 0.5rem 1rem; cursor: pointer; margin: 0.25rem;">Accept</button>
+      <button onclick="declineCookies()" style="background: #f44336; color: white; border: none; padding: 0.5rem 1rem; cursor: pointer; margin: 0.25rem;">Decline</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Check if user has already made a choice
+  var cookieConsent = localStorage.getItem('cookieConsent');
+  
+  if (!cookieConsent) {
+    // No choice made yet, show banner
+    document.getElementById('cookie-consent').style.display = 'block';
+  } else if (cookieConsent === 'accepted') {
+    // User previously accepted, initialize analytics
+    initializeAnalytics();
+  }
+  
+  function acceptCookies() {
+    localStorage.setItem('cookieConsent', 'accepted');
+    document.getElementById('cookie-consent').style.display = 'none';
+    initializeAnalytics();
+  }
+  
+  function declineCookies() {
+    localStorage.setItem('cookieConsent', 'declined');
+    document.getElementById('cookie-consent').style.display = 'none';
+    // Analytics will not be initialized
+    console.log('Analytics disabled by user choice');
+  }
+  
+  function initializeAnalytics() {
+    {% if site.google_analytics %}
+    // Initialize Google Analytics
+    if (typeof gtag === 'undefined') {
+      // Load the Google Analytics script
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}';
+      document.head.appendChild(script);
+      
+      // Initialize gtag
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}', {
+        'anonymize_ip': true,  // For GDPR compliance
+        'cookie_flags': 'SameSite=None;Secure'
+      });
+      
+      console.log('Google Analytics initialized');
+    }
+    {% endif %}
+    
+    {% if site.plausible_domain %}
+    // Initialize Plausible Analytics
+    if (!document.querySelector('script[data-domain]')) {
+      var plausibleScript = document.createElement('script');
+      plausibleScript.defer = true;
+      plausibleScript.setAttribute('data-domain', '{{ site.plausible_domain }}');
+      plausibleScript.src = 'https://plausible.io/js/script.js';
+      document.head.appendChild(plausibleScript);
+      
+      console.log('Plausible Analytics initialized');
+    }
+    {% endif %}
+  }
+  
+  // Allow users to revoke consent
+  function revokeCookieConsent() {
+    localStorage.removeItem('cookieConsent');
+    // Remove Google Analytics cookies
+    document.cookie = '_ga=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+    document.cookie = '_gid=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+    document.cookie = '_gat=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+    location.reload();
+  }
+</script>

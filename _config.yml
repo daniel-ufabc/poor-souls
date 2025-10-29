@@ -22,12 +22,15 @@ title: Um mês com as almas do purgatório
 email: um.mes.com.as.almas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Uma devocão especial pelas almas do purgatório durante o mês de novembro.
-url: http://localhost:4000
-baseurl: ''
-# baseurl: "/purgatorio" # the subpath of your site, e.g. /blog
-# url: "https://ummescomasalmas.com" # the base hostname & protocol for your site, e.g. http://example.com
+# url: http://localhost:4000
+# baseurl: ''
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pobresalmas.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-# github_username: daniel-ufabc
+github_username: daniel-ufabc
+
+# Google Analytics
+google_analytics: G-QEX80M0BJK
 
 # author:
 #   name: 'Your Name'
@@ -59,9 +62,9 @@ baseurl: ''
 #   - vendor/ruby/
 
 # Hyde specific settings
-author:
-  name: 'Your Name'
-  url: https://twitter.com/yourusername
+# author:
+#   name: 'Daniel M. Martin'
+#   url: https://twitter.com/yourusername
 
 paginate: 5
 paginate_path: "page:num"
@@ -77,3 +80,4 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-feed

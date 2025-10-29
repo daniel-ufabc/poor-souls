@@ -1,0 +1,27 @@
+/* Cookie consent banner styling */
+#cookie-consent {
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+  font-size: 0.95rem;
+}
+
+#cookie-consent button {
+  border-radius: 3px;
+  font-size: 0.9rem;
+  transition: opacity 0.2s;
+}
+
+#cookie-consent button:hover {
+  opacity: 0.9;
+}
+
+/* Make it mobile-friendly */
+@media (max-width: 48em) {
+  #cookie-consent > div {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  #cookie-consent p {
+    margin-bottom: 1rem !important;
+  }
+}
