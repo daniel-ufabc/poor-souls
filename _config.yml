@@ -18,16 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Um mês com as almas do purgatório
-email: um.mes.com.as.almas@gmail.com
+title: Pobres Almas
+email: mes.das.almas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Uma devocão especial pelas almas do purgatório durante o mês de novembro.
+  Um site dedicado às almas do purgatório
+
 # url: http://localhost:4000
 # baseurl: ''
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pobresalmas.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
+
 github_username: daniel-ufabc
+
+github:
+  repo: https://github.com/daniel-ufabc/poor-souls
 
 version: "1.0.0"
 
@@ -35,7 +40,7 @@ version: "1.0.0"
 google_analytics: G-QEX80M0BJK
 
 # author:
-#   name: 'Your Name'
+#   name: 'Author Name'
 #   url: https://twitter.com/yourusername
 
 # # Build settings
@@ -83,3 +88,25 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+
+# Collections
+collections:
+  book:
+    output: true
+    permalink: /book/:path/
+    sort_by: order
+  prayers:
+    output: true
+    permalink: /prayers/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: book
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: prayers
+    values:
+      layout: page
