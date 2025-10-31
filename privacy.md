@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+order: 5
 ---
 
 ## Cookie Policy

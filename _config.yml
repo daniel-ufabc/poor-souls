@@ -74,7 +74,8 @@ google_analytics: G-QEX80M0BJK
 #   url: https://twitter.com/yourusername
 
 paginate: 5
-paginate_path: "page:num"
+# paginate_path: "page:num"
+paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown: kramdown
