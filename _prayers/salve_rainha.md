@@ -4,19 +4,19 @@ title: Salve Rainha
 display: Salve Rainha
 ---
 
-Salve, Rainha, 
+Salve, rainha, 
 mãe de misericórdia, 
 vida, doçura, esperança nossa, salve! 
-A Vós bradamos, 
+A vós bradamos, 
 os degredados filhos de Eva. 
-A Vós suspiramos, gemendo e chorando 
+A vós suspiramos, gemendo e chorando 
 neste vale de lágrimas. 
 Eia, pois, advogada nossa, 
-esses Vossos olhos misericordiosos 
+esses vossos olhos misericordiosos 
 a nós volvei. 
 E, depois deste desterro, 
 mostrai-nos Jesus, bendito fruto 
-do Vosso ventre. 
+do vosso ventre. 
 Ó clemente, ó piedosa, 
 ó doce Virgem Maria. 
 

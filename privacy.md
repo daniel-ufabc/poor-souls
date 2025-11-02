@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 order: 5
+sidebar: false
 ---
 
 ## Cookie Policy

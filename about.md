@@ -2,6 +2,7 @@
 layout: page
 title: About
 order: 2
+sidebar: false
 ---
 
 <p class="message">

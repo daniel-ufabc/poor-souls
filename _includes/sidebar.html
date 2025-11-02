@@ -17,17 +17,24 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+      
       {% assign pages_list = site.pages | sort: "order" %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" or node.title == "Blog" %}
+          {% if node.sidebar %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      
+      {% comment %}
+      <!-- <a class="sidebar-nav-item" href="/about">Sobre</a> 
+      <a class="sidebar-nav-item" href="/livro">Livro</a>
+      <a class="sidebar-nav-item" href="/blog">Blog</a>
+      <a class="sidebar-nav-item" href="/privacy">Política de privacidade</a> 
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> 
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+      {% endcomment %}
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 

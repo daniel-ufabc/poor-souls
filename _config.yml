@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: http://localhost:4000
 # baseurl: ''
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pobresalmas.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pobresalmas.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 
 github_username: daniel-ufabc
@@ -73,9 +73,9 @@ google_analytics: G-QEX80M0BJK
 #   name: 'Daniel M. Martin'
 #   url: https://twitter.com/yourusername
 
-paginate: 5
+# paginate: 5
 # paginate_path: "page:num"
-paginate_path: "/blog/page:num/"
+# paginate_path: "/blog/page:num"
 
 # Build settings
 markdown: kramdown
@@ -86,7 +86,7 @@ permalink: pretty
 
 # Plugins (add these if not present)
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
 
