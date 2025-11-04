@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sexto dia -- A pena da privação
+title: Sexto dia &mdash; A pena da privação
 display: Sexto dia
 order: "06"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Décimo primeiro dia -- Santidade das almas do Purgatório
+title: Décimo primeiro dia &mdash; Santidade das almas do Purgatório
 display: Décimo primeiro dia
 order: "11"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Décimo dia -- Os dois caminhos que conduzem ao Purgatório
+title: Décimo dia &mdash; Os dois caminhos que conduzem ao Purgatório
 display: Décimo dia
 order: "10"
 ---

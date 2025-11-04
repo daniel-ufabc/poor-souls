@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Décimo segundo dia -- Estado das Almas do Purgatório em relação a nós
+title: Décimo segundo dia &mdash; Estado das Almas do Purgatório em relação a nós
 display: Décimo segundo dia
 order: "12"
 ---

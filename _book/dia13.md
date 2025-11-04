@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Décimo terceiro dia -- As almas negligenciadas
+title: Décimo terceiro dia &mdash; As almas negligenciadas
 display: Décimo terceiro dia
 order: "13"
 ---

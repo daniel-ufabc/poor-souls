@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sétimo dia -- A pena do remorso
+title: Sétimo dia &mdash; A pena do remorso
 display: Sétimo dia
 order: "07"
 ---

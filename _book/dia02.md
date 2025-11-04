@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Segundo dia -- O Purgatório
+title: Segundo dia &mdash; O Purgatório
 display: Segundo dia
 order: "02"
 ---

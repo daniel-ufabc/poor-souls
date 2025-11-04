@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oitavo dia -- Duração das penas do Purgatório
+title: Oitavo dia &mdash; Duração das penas do Purgatório
 display: Oitavo dia
 order: "08"
 ---

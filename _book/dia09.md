@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nono dia -- Impotência das almas do Purgatório
+title: Nono dia &mdash; Impotência das almas do Purgatório
 display: Nono dia
 order: "09"
 ---

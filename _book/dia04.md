@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quarto dia -- Existência do Purgatório, parte II
+title: Quarto dia &mdash; Existência do Purgatório, parte II
 display: Quarto dia
 order: "04"
 ---

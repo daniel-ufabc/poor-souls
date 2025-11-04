@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quinto dia -- Sofrimentos do Purgatório, a pena do fogo
+title: Quinto dia &mdash; Sofrimentos do Purgatório, a pena do fogo
 display: Quinto dia
 order: "05"
 ---
