@@ -10,11 +10,11 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}">Início</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        `sidebar: true` in the front-matter.
       {% endcomment %}
 
       
@@ -35,9 +35,9 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
       {% endcomment %}
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <span class="sidebar-nav-item">Versão {{ site.version }}</span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p><small>&copy; {{ site.time | date: '%Y' }}. Todos os direitos reservados.</small></p>
   </div>
 </div>
