@@ -1,3 +1,6 @@
+<p style="text-align: center; font-style: italic;">Requiescant in pace!</p>
+
+
 ## Orações 
 
 Em seguida, reze cada dia:
