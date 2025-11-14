@@ -33,7 +33,7 @@ Quando os filhos de Israel, levados cativos para longe da pátria, não viam mai
 Ah, sem dúvida, quando as almas de nossos irmãos, retidas pela justiça divina longe da pátria a que seu amor as chama, chegam pela primaira vez à beira do abismo onde foram condenadas a um doloroso exílio, elas ficam nestas margens mil vezes mais desoladas que as da terra. Alí, todas elas não pensam senão na pátria celeste, e põem-se a chorar o seu desterro, mas com suspiros e com lágrimas que diferem dos nossos suspiros e de nossas lágrimas, como o Céu difere da terra, e o tempo da eternidade!
 
 
-**Oremos.** Ó meu Deus! Deus tão santo, tão justo, mas tão rico em misericórdia! Deixai-vos atingir pelo amor destas santas almas. Não vos oculteis por mais tempo de seu ardente desejo, não as rechasseis. Abri-lhes o vosso seio e deixai que entrem e que mergulhem em Vós. Ó Jesus, sede-lhes propício! Ó Jesus, chamai vossos filhos e nossos irmãos à felicidade eterna. Que a luz que nunca se apaga brilhe sobre eles! Que descansem em paz!
+**Oremos.** Ó meu Deus! Deus tão santo, tão justo, mas tão rico em misericórdia! Deixai-vos atingir pelo amor destas santas almas. Não Vos oculteis por mais tempo de seu ardente desejo, não as afastais. Abri-lhes o vosso seio e deixai que entrem e que mergulhem em Vós. Ó Jesus, sede-lhes propício! Ó Jesus, chamai vossos filhos e nossos irmãos à felicidade eterna. Que a luz que nunca se apaga brilhe sobre eles! Que descansem em paz!
 
 
 {% capture my_include2 %}{% include end-prayers.md %}{% endcapture %}

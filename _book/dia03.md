@@ -23,7 +23,7 @@ Meu Deus! Eu creio no Purgatório, como em todos os dogmas que vós ensinais, po
 
 ## O ensinamento da Igreja
 
-A fé da igreja não é menos explícita. Veja como a formula o concílio de Trento: _Que seja anátema quem afirma que, após haver recebido a graça da justificação, todo pecador obtem de tal modo a remissão de sua falta e o perdão da pena eterna, que não lhe resta nenhuma dívida temporal a pagar, nem neste mundo nem no outro -- no Purgatório -- antes que lhe seja aberta a entrada do reino dos Céus._ Todos os doutores, gregos e latinos, todos os povos antigos e modernos
+A fé da igreja não é menos explícita. Veja como a formula o concílio de Trento: _Que seja anátema quem afirma que, após haver recebido a graça da justificação, todo pecador obtém de tal modo a remissão de sua falta e o perdão da pena eterna, que não lhe resta nenhuma dívida temporal a pagar, nem neste mundo nem no outro -- no Purgatório -- antes que lhe seja aberta a entrada do reino dos Céus._ Todos os doutores, gregos e latinos, todos os povos antigos e modernos
 professaram a mesma crença.
 
 De acordo com este ponto de fé, a Igreja, mãe terna e compassiva, reza todos os dias pelas almas do purgatório, e termina cada um de seus ofícios com um clamor de dor e de esperança: _Senhor, dai-lhes o repouso eterno!_ Ela obriga todos os seus sacerdotes a pensar nelas, no santo sacrifício, e recomenda a seus filhos oferecer frequentemente a Deus seus votos, suas esmolas e todas as obras satisfatórias pela libertação de seus irmãos falecidos. Enfim, Ela determinou um solene aniversário, onde chama a cristandade inteira em socorro dos fiéis falecidos. É a comovente festa de dois de novembro.

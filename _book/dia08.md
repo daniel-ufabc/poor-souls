@@ -16,7 +16,7 @@ A Igreja não definiu nada com relação à duração das penas do Purgatório, 
 
 Quem nos dirá a medida do tempo e do sofrimento para expiar um pecado venial? E para remover a ferrugem que deixam na alma os pecados mortais e lhe dar o brilho da beleza dos anjos? Ó insondável mistério dos julgamentos de Deus!
 
-Como a duração aumenta o rigor das penas! Sofrer horrivelmente e por muito tempo! Espera! Espera mais! Espera indefinidamente! Que dor, que martírio para essas almas benditas! Consideremos como a intensidade dos males que elas suportam fazem instantes parecerem meses, e meses parecerem séculos. Ó torturas incompreensíveis! Ó horas! Ó séculos cruéis! Senhor, abreviai esses sofrimentos, limitai a intensidade e a duraçao das dores dos nossos amigos, de nossos irmãos, e sobretudo daqueles que devem ficar o tempo máximo neste lugar de expiação.
+Como a duração aumenta o rigor das penas! Sofrer horrivelmente e por muito tempo! Espera! Espera mais! Espera indefinidamente! Que dor, que martírio para essas almas benditas! Consideremos como a intensidade dos males que elas suportam fazem instantes parecerem meses, e meses parecerem séculos. Ó torturas incompreensíveis! Ó horas! Ó séculos cruéis! Senhor, abreviai esses sofrimentos, limitai a intensidade e a duração das dores dos nossos amigos, de nossos irmãos, e sobretudo daqueles que devem ficar o tempo máximo neste lugar de expiação.
 
 
 ## Quais são as causas?
@@ -30,7 +30,7 @@ Portanto, de agora em diante, não sejamos tão precipitados em canonizar os mor
 
 Escutemos uma pequena história que diz mais que um longo discurso.
 
-Um homem, durante anos, ficou trancado em uma prisão conhecida. Um dia, cansado de sofrer, ele concebeu uma idéia para escapar. Uma mulher era bastante poderosa naquele tempo; ela tinha muita influência e conhecia quem poderia abrir as grades do prisioneiro e pôr fim a seus sofrimentos. Eis, diz a história, em que termos eloquentes o infeliz lhe dirigiu sua súplica: _Senhora, a 25 deste mês de março de 1760, haverá cem mil horas que sofro, e me restarão ainda duzentas mil horas a sofrer. Ó Senhora, sede tocada por tão longo e tão doloroso martírio!_
+Um homem, durante anos, ficou trancado em uma prisão conhecida. Um dia, cansado de sofrer, ele concebeu uma ideia para escapar. Uma mulher era bastante poderosa naquele tempo; ela tinha muita influência e conhecia quem poderia abrir as grades do prisioneiro e pôr fim a seus sofrimentos. Eis, diz a história, em que termos eloquentes o infeliz lhe dirigiu sua súplica: _Senhora, a 25 deste mês de março de 1760, haverá cem mil horas que sofro, e me restarão ainda duzentas mil horas a sofrer. Ó Senhora, sede tocada por tão longo e tão doloroso martírio!_
 Achou-se o coração desta mulher duro o bastante para resistir a esta eloquência? Não importa. Mas parece-me que não se pode colocar mais em tão poucas palavras. Ele havia pois contado as horas! Sim, como poderíamos contar um a um os batimentos de um relógio durante uma noite longa e triste, onde o sofrimento nos mantém em vigília! 
 
 É assim que as benditas almas do Purgatório calculam a duração de seus sofrimentos. Mas não em horas, e nem em dias, e sim em anos, e esses séculos lhes parecem eternos. Ó justiça de meu Deus, como sois tremenda! Ó almas tão severamente punidas, como tenho pena de vós!

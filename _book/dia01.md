@@ -36,7 +36,7 @@ Eis como uma uma pessoa digna de fé conta sua cura extraordinária, obtida pela
 
 > _Eu estava, já há vários anos, atingida por uma doença cruel que fazia do meu corpo um esqueleto, de minha vida um martírio, e que me conduzia insensivelmente ao túmulo. Consultei vários médicos de renome, mas todos os remédios que me prescreviam, após alguns raros momentos de alívio, me deixavam mais frágil e abatida. Não podendo nada obter dos recursos da medicina, deixei de lado os medicamentos e recorri às almas do purgatório que compreendem tão bem o mistério do sofrimento. O mês de novembro, que lhes é especialmente consagrado, iria começar. Tomei a resolução de o celebrar com 
 todo o fervor possível, e de concluí-lo com uma boa Comunhão. Os meus pais e as pessoas piedosas que conhecia uniram suas preces às minhas. Cada dia, reunidos à noite em meu quarto, aos pés de uma imagem de São José, pedíamos com confiança duas coisas: a libertação das pobres almas do purgatório e o alívio dos meus males. Ao final da primeira semana, experimentei uma melhora sensível, que coisa admirável! No último dia do bendito mês, eu estava na igreja, à mesa santa, inebriada de alegria, de felicidade e agradecendo. Minha cura estava completa, não havia sobrado traço algum da doença que me havia torturado por tanto tempo e que, como diziam os próprios médicos, era incurável. Graças sejam 
-dadas às santas almas do purgatório cuja proteção se manifestou de maneira visivel a meu favor!_
+dadas às santas almas do purgatório cuja proteção se manifestou de maneira visível a meu favor!_
 
 Que favores vamos receber também, para nossos fiéis defuntos e para nós mesmos, se praticarmos santamente as devoções deste belo mês! Tenha coragem, e confiança!
 

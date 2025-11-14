@@ -12,7 +12,7 @@ order: "04"
 
 ## Testemunho de nossa razão
 
-Em concordancia com a fé, a razão também proclama a existência do Purgatório: sua voz nos fala assim como a Igreja e as Escrituras. Ela nos diz em primeiro lugar que, 
+Em concordância com a fé, a razão também proclama a existência do Purgatório: sua voz nos fala assim como a Igreja e as Escrituras. Ela nos diz em primeiro lugar que, 
 sendo Deus perfeitamente santo, nada de impuro pode entrar em seu reino. Que existe uma 
 repulsa eterna e insuperável entre o menor dos males e o Bem supremo. E que uma alma, ainda que possua uma pequena mancha, é indigna de se unir a Deus até que tenha sido purificada. Do contrário, ela introduziria o pecado no Céu. _Senhor_, dizia o salmista, _quem há de morar em vosso tabernáculo? Quem habitará em vossa montanha santa? O que vive na inocência e pratica a justiça._ 
 
@@ -23,7 +23,7 @@ faltas neste mundo, as repararão infalivelmente no próximo. As satisfações q
 nossa morte. E onde isso se dará? No Purgatório. 
 
 Alma cristã, vamos provar nossa fé no dogma do Purgatório através de uma terna caridade 
-pelas almas que ali se encotram e que estão sujeitas a rigorosas purificações; e fugindo das faltas "leves" que podem nos levar a esse lugar. _Que aquele que é justo seja ainda mais justo, e que o santo se torne ainda mais santo._
+pelas almas que ali se encontram e que estão sujeitas a rigorosas purificações; e fugindo das faltas "leves" que podem nos levar a esse lugar. _Que aquele que é justo seja ainda mais justo, e que o santo se torne ainda mais santo._
 
 
 ## Testemunho do nosso coração
