@@ -2,7 +2,7 @@
 layout: page
 title: "Vigésimo dia &mdash; Primeiro modo de aliviar as almas do Purgatório: a oração"
 display: Vigésimo dia
-order: "19"
+order: "20"
 ---
 
 {% capture my_include1 %}{% include initial-prayer.md %}{% endcapture %}
