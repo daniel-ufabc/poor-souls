@@ -10,7 +10,7 @@ order: "17"
 {{ my_include1 | markdownify }}
 
 
-## O quanto Ele ama as álmas do Purgatório 
+## O quanto Ele ama as almas do Purgatório 
 
 Considerais que Jesus Cristo tem pelas almas do Purgatório, como por todas as almas resgatadas pelo preço de Seu Sangue, um amor infinito. Cada uma pode repetir como o grande apóstolo: _Ele me amou e se entregou por mim_. E se há gradações no infinito, Ele deve amá-las mais que nós, porque confirmadas na graça, incapazes de pecar, elas não mais O ofenderão; porque elas sofrem imensamente e com uma resignação perfeita; porque elas O bendizem e O estimam mais ternamente do que nós. Sim, não duvidemos disso, os olhos e o coração do misericordioso Jesus estão para sempre atraídos a esses mártires do além-túmulo, nossos irmãos, os mortos. Longe de os esquecer, de os abandonar em seus sofrimentos, podemos dizer que, de alguma maneira, Ele sofre com eles. Sim, Ele sofre como redentor dessas almas que resgatou por meio de tantos sacrifícios. Sofre também como Pai de filhas tão queridas e como Esposo de esposas tão amadas. Sofre como Cabeça de seu corpo místico que padece. As dores dessas almas, O fazem recordar de Suas próprias dores, e amor que têm atraem Seu próprio amor. Se Ele pudesse morrer novamente, Ele o faria para pagar suas dívidas e abrir-lhes as portas do Paraíso. O que detém a força de Seu amor é a sabedoria e a misericordiosa justiça de um Deus que se opõe à menor das manchas. 
 
