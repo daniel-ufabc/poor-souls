@@ -34,7 +34,9 @@ elements.forEach(li => {
   const dayValue = parseInt(li.dataset.day);
   
   // Check if it's a valid day number
-  if (!isNaN(dayValue) && dayValue >= 1 && dayValue <= 30) {
+  if (!isNaN(dayValue) && dayValue <= 30
+  // && dayValue >= 1 
+  ) {
     // Create the comparison date (2025-11-DD)
     const comparisonDate = new Date(2025, 10, dayValue); // Month 10 = November (0-indexed)
     
