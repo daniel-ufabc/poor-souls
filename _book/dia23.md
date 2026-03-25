@@ -25,14 +25,18 @@ Ah! Como seríamos culpados de negligenciar um meio tão fácil e tão eficaz de
 
 ## Exemplo 
 
-O santo Cura d’Ars contava um dia, no seu catecismo, aos seus paroquianos, a seguinte história. 
+O santo Cura d’Ars contava um dia, na catequese dirigida aos paroquianos, a seguinte história. 
 
-> Meus filhos, um bom sacerdote tivera a infelicidade de perder um amigo a quem estimava ternamente; por isso, rezava muito pelo repouso de sua alma. Um dia, Deus fez-lhe saber que ele estava no Purgatório e que sofria ali horrivelmente. Esse santo sacerdote não julgou poder fazer nada melhor do que oferecer o santo Sacrifício da Missa pelo seu querido amigo falecido. Quando chegou o momento da consagração, tomou a Hóstia entre os dedos e disse: _Pai santo e eterno, façamos uma troca. Vós tendes a alma do meu amigo que está no Purgatório, e eu tenho o Corpo do Vosso Filho que está entre as minhas mãos. Pois bem, Pai bom e misericordioso, libertai o meu amigo, e eu Vos ofereço o Vosso Filho com todos os méritos da sua morte e da sua Paixão._ O seu pedido foi atendido. Com efeito, no momento da ação de graças, viu a alma do seu amigo, toda radiante de glória, subir ao Céu. Deus aceitara a troca. Pois bem, meus filhos, acrescentava o Cura d’Ars, quando queremos livrar do Purgatório uma alma que nos é cara, façamos o mesmo. Ofereçamos a Deus, pelo santo Sacrifício, o Seu Filho bem-amado com todos os méritos da Sua morte e da Sua Paixão; Ele nada nos poderá recusar.
+> _Meus filhos, um bom sacerdote tivera a infelicidade de perder um amigo a quem estimava ternamente; por isso, rezava muito pelo repouso de sua alma. Um dia, Deus fez-lhe saber que ele estava no Purgatório e que sofria ali horrivelmente. Esse santo sacerdote não julgou poder fazer nada melhor do que oferecer o santo Sacrifício da Missa pelo seu querido amigo falecido. Quando chegou o momento da consagração, tomou a Hóstia entre os dedos e disse:_
+
+> _Pai santo e eterno, façamos uma troca. Vós tendes a alma do meu amigo que está no Purgatório, e eu tenho o Corpo do Vosso Filho que está entre as minhas mãos. Pois bem, Pai bom e misericordioso, libertai o meu amigo, e eu Vos ofereço o Vosso Filho com todos os méritos da sua morte e da sua Paixão._ 
+
+> _O seu pedido foi atendido. Com efeito, no momento da ação de graças, viu a alma do seu amigo, toda radiante de glória, subir ao Céu. Deus aceitara a troca. Pois bem, meus filhos, acrescentava o Cura d’Ars, quando queremos livrar do Purgatório uma alma que nos é cara, façamos o mesmo. Ofereçamos a Deus, pelo santo Sacrifício, o Seu Filho bem-amado com todos os méritos da Sua morte e da Sua Paixão; Ele nada nos poderá recusar._
 
 Sigamos, alma cristã, o conselho do santo Cura d’Ars. Façamos oferecer o santo Sacrifício da Missa pelos nossos parentes defuntos e eles serão aliviados, libertados.
 
 
-**Oremos.** Por mais culpadas que vos pareçam as almas do Purgatório, Vós Vos deixareis apaziguar, ó Deus de misericórdia, e Vós os perdoareis ao ver o precioso Sangue de Vosso Filho derramado cada dia sobre o altar, para os lavar de suas impurezas. Sim, escutareis a vóz desse Sangue adorável, que não grita para pedir vingança, mas graça e misericórdia. Ó Jesus, Cordeiro sem mancha, que tirais o pecado do mundo, sede propício aos meus irmãos falecidos. Que eles sejam libertados da prisão e que repousem em paz diante de Vós!
+**Oremos.** Por mais culpadas que vos pareçam as almas do Purgatório, Vós Vos deixareis apaziguar, ó Deus de misericórdia, e Vós os perdoareis ao ver o precioso Sangue de Vosso Filho derramado cada dia sobre o altar, para os lavar de suas impurezas. Sim, escutareis a voz desse Sangue adorável, que não grita para pedir vingança, mas graça e misericórdia. Ó Jesus, Cordeiro sem mancha, que tirais o pecado do mundo, sede propício aos meus irmãos falecidos. Que eles sejam libertados da prisão e que repousem em paz diante de Vós!
 
 
 {% capture my_include2 %}{% include end-prayers.md %}{% endcapture %}

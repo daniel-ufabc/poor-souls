@@ -30,8 +30,8 @@ De acordo com este ponto de fé, a Igreja, mãe terna e compassiva, reza todos o
 
 Cristãos, como é consolador pensar que após nossa morte, a Igreja estará por nós em orações, que ela convidará todos os seus fiéis a pedir a Deus nossa libertação, que ela não cessará de rezar e de chorar sobre nosso túmulo, senão quando nos tiver introduzido no seio da Igreja triunfante! Ó Igreja católica, como sois boa mãe! Como conheceis a fraqueza de vossos filhos! E como é doce dizer com o poeta:
 
-> A esperança de que amigos chorarão nossa sorte   
-> Encanta o instante supremo e consola a morte!
+> _A esperança de que amigos chorarão nossa sorte_   
+> _Encanta o instante supremo e consola a morte!_
 
 
 ## Exemplo

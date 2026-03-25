@@ -1,0 +1,102 @@
+\documentclass[a5paper, 12pt]{memoir}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+
+\usepackage[lf]{venturis}
+% \usepackage{concrete}
+% \usepackage{euler}
+
+\usepackage{microtype}
+
+% A5 margins: inner 18mm, outer 14mm, top 18mm, bottom 22mm
+\setlrmarginsandblock{18mm}{14mm}{*}
+\setulmarginsandblock{18mm}{22mm}{*}
+\checkandfixthelayout
+
+% Show page numbers on blank pages inserted before chapter openings
+\aliaspagestyle{cleared}{plain}
+
+% Chapter style: show \thechapterdisplay (e.g. "Terceiro dia") instead of
+% "Capítulo N", followed by the chapter title on the next line.
+\newcommand{\thechapterdisplay}{}
+\newcommand{\thechapterrunner}{}
+\makechapterstyle{purgatorio}{%
+  \renewcommand{\printchaptername}{\normalfont\HUGE\itshape\thechapterdisplay}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\printchapternum}{}
+  \renewcommand{\afterchapternum}{\par\vskip\midchapskip}
+  \renewcommand{\chaptermark}[1]{\markboth{\thechapterrunner}{}}
+}
+\chapterstyle{purgatorio}
+
+% 4. Marginalia (requires texlive-latex-extra)
+% \usepackage{marginnote}
+% \renewcommand*{\marginfont}{\small\itshape}
+
+\begin{document}
+
+\frontmatter % roman numerals
+
+\begin{titlingpage}
+  \vspace*{\fill}
+  \begin{center}
+    {\Huge\bfseries Book Title}\\[1.5em]
+    {\large\itshape Author Name}\\[3em]
+    {\large Publisher \quad 2026}
+  \end{center}
+  \vspace*{\fill}
+\end{titlingpage}
+
+\tableofcontents
+
+\chapter{Oração Inicial}
+\input{prayers/initial-prayer}
+
+\mainmatter % arabic numerals, resets to 1
+
+\input{chapters/dia00}
+\input{chapters/dia01}
+\input{chapters/dia02}
+\input{chapters/dia03}
+\input{chapters/dia04}
+\input{chapters/dia05}
+\input{chapters/dia06}
+\input{chapters/dia07}
+\input{chapters/dia08}
+\input{chapters/dia09}
+\input{chapters/dia10}
+\input{chapters/dia11}
+\input{chapters/dia12}
+\input{chapters/dia13}
+\input{chapters/dia14}
+\input{chapters/dia15}
+\input{chapters/dia16}
+\input{chapters/dia17}
+\input{chapters/dia18}
+\input{chapters/dia19}
+\input{chapters/dia20}
+\input{chapters/dia21}
+\input{chapters/dia22}
+\input{chapters/dia23}
+\input{chapters/dia24}
+\input{chapters/dia25}
+\input{chapters/dia26}
+\input{chapters/dia27}
+\input{chapters/dia28}
+\input{chapters/dia29}
+\input{chapters/dia30}
+\input{chapters/dia31}
+
+\backmatter
+
+\chapter{Orações}
+\input{prayers/end-prayers}
+\input{prayers/ladainha}
+\input{prayers/credo}
+\input{prayers/salve-rainha}
+\input{prayers/de-profundis}
+\input{prayers/oracao-pelas-almas}
+
+\end{document}

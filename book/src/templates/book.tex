@@ -1,0 +1,51 @@
+\documentclass[a5paper, 12pt]{memoir}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[lf]{venturis}
+% \usepackage{concrete}
+% \usepackage{euler}
+
+\usepackage{microtype}
+
+% A5 margins: inner 18mm, outer 14mm, top 18mm, bottom 22mm
+\setlrmarginsandblock{18mm}{14mm}{*}
+\setulmarginsandblock{18mm}{22mm}{*}
+\checkandfixthelayout
+
+% Show page numbers on blank pages inserted before chapter openings
+\aliaspagestyle{cleared}{plain}
+
+% 4. Marginalia (requires texlive-latex-extra)
+% \usepackage{marginnote}
+% \renewcommand*{\marginfont}{\small\itshape}
+
+\begin{document}
+
+\frontmatter % roman numerals
+
+\begin{titlingpage}
+  \vspace*{\fill}
+  \begin{center}
+    {\Huge\bfseries Book Title}\\[1.5em]
+    {\large\itshape Author Name}\\[3em]
+    {\large Publisher \quad 2026}
+  \end{center}
+  \vspace*{\fill}
+\end{titlingpage}
+
+\tableofcontents
+
+
+\chapter{Preface}
+This is the preface.
+
+
+\mainmatter % arabic numerals, resets to 1
+
+\chapter{Recurrences}
+The Tower of Hanoi is a classic example\ldots
+\[ \sum_{i=1}^n i = \frac{n(n+1)}{2} \]
+
+\end{document}

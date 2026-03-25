@@ -11,19 +11,19 @@ Ao terminar este mês bendito, queirais receber, alma cristã, alguns conselhos 
 
 Podeis contar muito com a gratidão dos mortos, pois os mortos, dizia São Francisco de Sales, são sempre gratos pelo que lhes é feito; mas conteis pouco, muito pouco, com a gratidão dos vivos, sobretudo se forem vossos próprios filhos. Vossos herdeiros! Provavelmente vos farão belos funerais, talvez vos darão um túmulo, um mausoléu que dirá mais sobre sua vaidade do que sobre sua piedade filial e religiosa; mas economizarão tanto mais com a Igreja quanto mais tiverem sido pródigos no cemitério.
 
-Vossos herdeiros! Eles estarão talvez &mdash; infelizmente &mdash; mais ávidos por disputar vossa herança e por usufruir dela do que por realizar vossos últimos desejos e vos tirar do Purgatório. Não sabeis que os homens, quando perdem alguém de vista muito em breve perdem também sua lembrança? O que os olhos não vêem, o coração não sente. O poeta disse:
+Vossos herdeiros! Eles estarão talvez &mdash; infelizmente &mdash; mais ávidos por disputar vossa herança e por usufruir dela do que por realizar vossos últimos desejos e vos tirar do Purgatório. Não sabeis que os homens, quando perdem alguém de vista muito em breve perdem também sua lembrança? O que os olhos não vêm, o coração não sente. O poeta disse:
 
-> Sobre as asas do tempo, a tristeza voa.
+> _Sobre as asas do tempo, a tristeza voa._
 
 Não sabeis que que o esquecimento dos mortos abrange quase todo o mundo, e que sua memória finda quase sempre quando os sinos param de bater? Não sabeis que, em matéria de salvação, não se pode confiar em ninguém além de si mesmo? Aproveitai, pois, o conselho do autor da _Imitação_:
 
-> Não conte em nada com vossos amigos, nem com vossos próximos, pois eles vos esquecerão mais rápido do que pensais; se agora não vos ocupeis de vós mesmos, quem se ocupará de vós qundo tiverdes partido?
+> _Não conte em nada com vossos amigos, nem com vossos próximos, pois eles vos esquecerão mais rápido do que pensais; se agora não vos ocupeis de vós mesmos, quem se ocupará de vós quando tiverdes partido?_
 
 ## Segundo ponto
 
-Se possuís bens materiais fazei logo o vosso testamento e não deixeis para a última hora. Quem sabe, alma cristã, não sereis surpreendidos por uma morte súbita ou imprevista? Inúmeros casos ratificam este conselho, pois muitos partiram deste mundo sem que tivessem tempo de definir um testamento, e sem que pudessem dar aos seus bens o destino que desejavam. Assim dizia Santo Agosinho:
+Se possuís bens materiais fazei logo o vosso testamento e não deixeis para a última hora. Quem sabe, alma cristã, não sereis surpreendidos por uma morte súbita ou imprevista? Inúmeros casos ratificam este conselho, pois muitos partiram deste mundo sem que tivessem tempo de definir um testamento, e sem que pudessem dar aos seus bens o destino que desejavam. Assim dizia Santo Agostinho:
 
-> Eu vos suplico, antes de serdes sobrecarregados pela doença, ocupai-vos de vosso testamento, resolvei os assuntos domésticos, pois se esperardes até o limiar, vos forçarão a fazer sob ameaças ou por lisonjas aquilo que não desejais fazer.
+> _Eu vos suplico, antes de serdes sobrecarregados pela doença, ocupai-vos de vosso testamento, resolvei os assuntos domésticos, pois se esperardes até o limiar, vos forçarão a fazer sob ameaças ou por lisonjas aquilo que não desejais fazer._
 
 ## Terceiro ponto
 
@@ -33,8 +33,8 @@ Assim seja.
 
 ## Exemplo 
 
-Um homem tinha três amigos, dois sobretudo que amava com predileção. Um dia ele foi acusado na justiça de ter cometido um grave crime, do qual era inocente. _Quem de vós_, disse ele a seus aigos, _quer me acompanhar ao tribunal e depor energicamente em favor de minha inocência?_ O primairo se desculpou, dando como pretexto que estava ocupado. O segundo o acompanhou até a porta do tribunal, parou, e voltou logo para casa, tremendo, com medo da cólera do juiz. O terceiro, aquele com quem o acusado contava menos, entrou, falou a seu favor, atestou sua hombridade e sua inocência com uma tal convicção, que o juiz não somente lhe concedeu a liberdade, mais ainda lhe garantiu privilégios. 
+Um homem tinha três amigos, dois sobretudo que amava com predileção. Um dia ele foi acusado na justiça de ter cometido um grave crime, do qual era inocente. _Quem de vós_, disse ele a seus amigos, _quer me acompanhar ao tribunal e depor energicamente em favor de minha inocência?_ O primeiro se desculpou, dando como pretexto que estava ocupado. O segundo o acompanhou até a porta do tribunal, parou, e voltou logo para casa, tremendo, com medo da cólera do juiz. O terceiro, aquele com quem o acusado contava menos, entrou, falou a seu favor, atestou sua hombridade e sua inocência com uma tal convicção, que o juiz não somente lhe concedeu a liberdade, mais ainda lhe garantiu privilégios. 
 
-Neste mundo o homem tem três amigos. Quando Deus o chama, na hora da morte para julgá-lo, o dinheiro, seu amigo predileto, não vai com el, mas o abandona e não lhe serve de mais nada. Seus prentes e seus próximos, o acompanham até o túmulo, derramam-lhe um pouco de água benta, e um último adeus, e retornam tranquilamente a suas casas. O terceiro amigo, aquele com quem talvez se preocupasse menos durante a vida, são as Boas Obras. Somente elas lhe foram fiéis, e o acompanham perante o juiz, o precedem, falam em seu favor e obtêm para ele perdão e misericórdia: _opera illorum sequuntur illos_. 
+Neste mundo o homem tem três amigos. Quando Deus o chama, na hora da morte para julgá-lo, o dinheiro, seu amigo predileto, não vai com el, mas o abandona e não lhe serve de mais nada. Seus parentes e seus próximos, o acompanham até o túmulo, derramam-lhe um pouco de água benta, e um último adeus, e retornam tranquilamente a suas casas. O terceiro amigo, aquele com quem talvez se preocupasse menos durante a vida, são as Boas Obras. Somente elas lhe foram fiéis, e o acompanham perante o juiz, o precedem, falam em seu favor e obtêm para ele perdão e misericórdia: _opera illorum sequuntur illos_. 
 
 Alma cristã, deixai uma parte às boas obras em vosso testamento, e tereis amigos dedicados que fecharão para vós as portas do Purgatório e vos abrirão as portas do Céu. _Hoc fac et vives!_

@@ -1,0 +1,3 @@
+\contentsline {chapter}{Contents}{i}{}%
+\contentsline {chapter}{Preface}{iii}{}%
+\contentsline {chapter}{\chapternumberline {1}Recurrences}{1}{}%
