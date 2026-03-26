@@ -17,7 +17,7 @@ Meditações práticas para cada dia do mês de novembro
 ### Livro traduzido
 
 
-Baixe o arquivo [PDF]({% link book/src/content/main.pdf %}) principal ou sua versão [compacta]({% link book/src/content/compact.pdf %}).
+Baixe o arquivo [PDF]({{ '/book/src/content/main.pdf' | relative_url }}) principal ou sua versão [compacta]({{ '/book/src/content/compact.pdf' | relative_url }}).
 
 
 ### Original
