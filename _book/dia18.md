@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Décimo oitavo dia &mdash; Terceiro motivo para socorrer as almas do Purgatório: o Amor de Maria"
+short: "Terceiro motivo: o Amor de Maria"
 display: Décimo oitavo dia
 order: "18"
 ---

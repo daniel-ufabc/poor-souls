@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Décimo sexto dia &mdash; Primeiro motivo para socorrer as almas do Purgatório: a Glória de Deus"
+short: "Primeiro motivo: a Glória de Deus"
 display: Décimo sexto dia
 order: "16"
 ---

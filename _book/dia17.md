@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Décimo sétimo dia &mdash; Segundo motivo para socorrer as almas do Purgatório: o Amor de Nosso Senhor"
+short: "Segundo motivo: o Amor de Nosso Senhor"
 display: Décimo sétimo dia
 order: "17"
 ---

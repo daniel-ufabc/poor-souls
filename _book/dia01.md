@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Primeiro dia
+title: Primeiro dia &mdash; Santificação deste mês
 display: Primeiro dia
 order: "01"
 ---

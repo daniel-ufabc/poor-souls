@@ -14,6 +14,11 @@ Meditações práticas para cada dia do mês de novembro
 {% endfor %}
 </ul>
 
+### Livro traduzido
+
+
+Baixe o arquivo [PDF]({% link book/src/content/main.pdf %}) principal ou sua versão [compacta]({% link book/src/content/compact.pdf %}).
+
 
 ### Original
 
@@ -24,6 +29,7 @@ Vic et amat, cinquième édition, Paris, 1888.
 
 Livro original em formato [PDF]({% link moisdesamesdupurgatoire.pdf %})  
 Fonte: [The Internet Archive](https://archive.org/details/moisdesamesdupur00berl)
+
 
 <script>
 const today = new Date();

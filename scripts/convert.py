@@ -33,9 +33,10 @@ _current_file = ""
 # ---------------------------------------------------------------------------
 
 def strip_frontmatter(text):
-    """Remove YAML frontmatter block; return (title, display, body)."""
+    """Remove YAML frontmatter block; return (title, display, short, body)."""
     title = ""
     display = ""
+    short = ""
     if text.startswith("---"):
         end = text.find("\n---", 3)
         if end != -1:
@@ -46,8 +47,11 @@ def strip_frontmatter(text):
                 m = re.match(r'^display:\s*(.+)$', line)
                 if m:
                     display = m.group(1).strip().strip("\"'")
+                m = re.match(r'^short:\s*(.+)$', line)
+                if m:
+                    short = m.group(1).strip().strip("\"'")
             text = text[end + 4:]
-    return title, display, text.lstrip("\n")
+    return title, display, short, text.lstrip("\n")
 
 
 # ---------------------------------------------------------------------------
@@ -65,7 +69,12 @@ _INCLUDE_MAP = {
     # The initial prayer is its own frontmatter chapter; drop the per-chapter inclusion.
     "initial-prayer.md": "",
     # Replace the closing prayer list with a short forward reference.
-    "end-prayers.md":    "Em seguida, rezar as orações do final deste livro.",
+    "end-prayers.md":    """
+\\begin{center}
+\\textit{Requiescant in pace!}
+\\end{center}
+
+Rezai agora uma dezena do terço e as orações no final deste livro.""",
 }
 
 def replace_liquid_includes(text):
@@ -218,6 +227,11 @@ def process_body(text):
             out.append('\\end{itemize}')
             continue
 
+        # -- Horizontal rule (--- / *** / ___) — discard ----------------------
+        if re.match(r'^(\-{3,}|\*{3,}|_{3,})\s*$', line):
+            i += 1
+            continue
+
         # -- Normal line --------------------------------------------------------
         out.append(convert_inline_line(line))
         i += 1
@@ -237,7 +251,7 @@ def sanitise_title(title):
     return title
 
 
-def make_heading(title, display, wrapper):
+def make_heading(title, display, short, wrapper):
     if not title:
         return ""
     if wrapper == "chapter":
@@ -249,16 +263,17 @@ def make_heading(title, display, wrapper):
             parts = title.split("---", 1)
             subtitle = parts[1].strip()
             label = display if display else parts[0].strip()
+            runner = short if short else subtitle
             return (
                 f"\\renewcommand{{\\thechapterdisplay}}{{{label}}}\n"
-                f"\\renewcommand{{\\thechapterrunner}}{{{subtitle}}}\n"
+                f"\\renewcommand{{\\thechapterrunner}}{{{runner}}}\n"
                 f"\\chapter[{title}]{{{subtitle}}}\n"
             )
         else:
-            # No subtitle: clear the display label; running header = full title.
+            runner = short if short else title
             return (
                 f"\\renewcommand{{\\thechapterdisplay}}{{}}\n"
-                f"\\renewcommand{{\\thechapterrunner}}{{{title}}}\n"
+                f"\\renewcommand{{\\thechapterrunner}}{{{runner}}}\n"
                 f"\\chapter{{{title}}}\n"
             )
     return f"\\section*{{{title}}}\n"
@@ -272,13 +287,14 @@ def convert(input_path, output_path, wrapper, title_override):
     global _current_file
     _current_file = input_path
     text = Path(input_path).read_text(encoding="utf-8")
-    fm_title, fm_display, body = strip_frontmatter(text)
+    fm_title, fm_display, fm_short, body = strip_frontmatter(text)
 
     title = sanitise_title(title_override if title_override else fm_title)
     display = sanitise_title(fm_display)
+    short = sanitise_title(fm_short)
     body = process_body(body)
 
-    output = make_heading(title, display, wrapper) + body.strip() + "\n"
+    output = make_heading(title, display, short, wrapper) + body.strip() + "\n"
 
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     Path(output_path).write_text(output, encoding="utf-8")

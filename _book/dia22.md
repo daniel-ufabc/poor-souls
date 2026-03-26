@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Vigésimo segundo dia &mdash; Terceiro modo de aliviar as almas do Purgatório: a Santa Comunhão"
+short: "Terceiro modo: a Santa Comunhão"
 display: Vigésimo segundo dia
 order: "22"
 ---

@@ -27,7 +27,17 @@
   \renewcommand{\chapternamenum}{}
   \renewcommand{\printchapternum}{}
   \renewcommand{\afterchapternum}{\par\vskip\midchapskip}
-  \renewcommand{\chaptermark}[1]{\markboth{\thechapterrunner}{}}
+  % In frontmatter memoir skips \printchaptername and calls \printchapternonum instead.
+  % Mirror the same output so \thechapterdisplay shows there too.
+  \renewcommand{\printchapternonum}{%
+    \ifx\thechapterdisplay\@empty\else
+      \normalfont\HUGE\itshape\thechapterdisplay\par\vskip\midchapskip
+    \fi
+  }
+  \renewcommand{\chaptermark}[1]{%
+    \edef\@purgrunner{\thechapterrunner}%
+    \expandafter\markboth\expandafter{\@purgrunner}{}%
+  }
 }
 \chapterstyle{purgatorio}
 
@@ -42,9 +52,10 @@
 \begin{titlingpage}
   \vspace*{\fill}
   \begin{center}
-    {\Huge\bfseries Book Title}\\[1.5em]
-    {\large\itshape Author Name}\\[3em]
-    {\large Publisher \quad 2026}
+    {\Huge\bfseries Mês das almas do Purgatório}\\[1.5em]
+    {\Large Meditações práticas para cada dia do mês de novembro}\\[1.5em]
+    {\large\itshape Pe. Martin Berlioux}\\[3em]
+    % {\large Publisher \quad 2026}
   \end{center}
   \vspace*{\fill}
 \end{titlingpage}
@@ -54,9 +65,10 @@
 \chapter{Oração Inicial}
 \input{prayers/initial-prayer}
 
+\input{chapters/dia00}
+
 \mainmatter % arabic numerals, resets to 1
 
-\input{chapters/dia00}
 \input{chapters/dia01}
 \input{chapters/dia02}
 \input{chapters/dia03}
@@ -87,16 +99,21 @@
 \input{chapters/dia28}
 \input{chapters/dia29}
 \input{chapters/dia30}
-\input{chapters/dia31}
 
 \backmatter
 
+\input{chapters/dia31}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\renewcommand{\thechapterrunner}{Orações}
 \chapter{Orações}
-\input{prayers/end-prayers}
+
 \input{prayers/ladainha}
 \input{prayers/credo}
 \input{prayers/salve-rainha}
 \input{prayers/de-profundis}
 \input{prayers/oracao-pelas-almas}
+\endgroup
 
 \end{document}

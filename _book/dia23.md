@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Vigésimo terceiro dia &mdash; Quarto modo de aliviar as almas do Purgatório: o Santo Sacrifício da Missa"
+short: "Quarto modo: o Santo Sacrifício da Missa"
 display: Vigésimo terceiro dia
 order: "23"
 ---

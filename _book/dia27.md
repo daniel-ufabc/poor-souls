@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Vigésimo sétimo dia &mdash; Oitavo modo de aliviar as almas do Purgatório: o ato heroico de caridade"
+short: "Oitavo modo: o ato heroico de caridade"
 display: Vigésimo sétimo dia
 order: "27"
 ---

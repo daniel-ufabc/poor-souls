@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Décimo nono dia &mdash; Quarto motivo para socorrer as almas do Purgatório: a gratidão dos defuntos"
+title: "Décimo nono dia &mdash; Quarto motivo para socorrer as almas do Purgatório: a gratidão dos falecidos"
+short: "Quarto motivo: a gratidão dos falecidos"
 display: Décimo nono dia
 order: "19"
 ---

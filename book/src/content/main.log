@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.24)  24 MAR 2026 23:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.25)  25 MAR 2026 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,7 +497,7 @@ Sidefoothsep and sidefootwidth: 7pt and 51pt
 Sidefootvsep and sidefootheight: 14.5pt and 343.64995pt
 ******************************************************
 
-LaTeX Font Info:    Trying to load font information for T1+yvt on input line 38
+LaTeX Font Info:    Trying to load font information for T1+yvt on input line 48
 .
 (/usr/share/texlive/texmf-dist/tex/latex/venturis/t1yvt.fd
 File: t1yvt.fd 2010/07/03 Fontinst v1.933 font definitions for T1/yvt.
@@ -530,33 +530,33 @@ LaTeX Info: Font shape T1/yvt/mc/sl has incorrect series value `mc'.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Info: Redefining \microtypecontext on input line 38.
-Package microtype Info: Applying patch `item' on input line 38.
-Package microtype Info: Applying patch `toc' on input line 38.
-Package microtype Info: Applying patch `eqnum' on input line 38.
-Package microtype Info: Applying patch `footnote' on input line 38.
-Package microtype Info: Applying patch `verbatim' on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Info: Redefining \microtypecontext on input line 48.
+Package microtype Info: Applying patch `item' on input line 48.
+Package microtype Info: Applying patch `toc' on input line 48.
+Package microtype Info: Applying patch `eqnum' on input line 48.
+Package microtype Info: Applying patch `footnote' on input line 48.
+Package microtype Info: Applying patch `verbatim' on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 38.
+LaTeX Info: Redefining \showhyphens on input line 48.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -584,233 +584,204 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1]
 LaTeX Font Info:    Font shape `T1/yvt/m/sl' in size <12> not available
-(Font)              Font shape `T1/yvt/m/it' tried instead on input line 29.
+(Font)              Font shape `T1/yvt/m/it' tried instead on input line 28.
 
 
 Class memoir Warning: The material used in the headers is too large
 (14.56203pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 29.
+(in both cases you will find help in the memoir manual). on input line 28.
 
 [2]) [3] [4
 
-] (./prayers/initial-prayer.tex) [5] [6
+] (./prayers/initial-prayer.tex) (./chapters/dia00.tex [5] [6
 
-] (./chapters/dia00.tex
-[1
+]
+[7] [8]) [9] [10
 
-] [2]) (./chapters/dia01.tex [3] [4
+] (./chapters/dia01.tex
+Underfull \vbox (badness 3838) has occurred while \output is active []
 
-] [5] [6] [7]) (./chapters/dia02.tex
-[8]
+ [1
+
+]
+[2] [3]) (./chapters/dia02.tex [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
+[6] [7]) (./chapters/dia03.tex [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9
 
 ]
-[10] [11]) (./chapters/dia03.tex [12]
-Underfull \vbox (badness 7186) has occurred while \output is active []
+[10] [11]) (./chapters/dia04.tex [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13
 
 ]
-[14] [15]) (./chapters/dia04.tex [16]
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+ [14]
+[15]) (./chapters/dia05.tex [16]
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
  [17
 
 ]
-[18] [19]) (./chapters/dia05.tex [20]
-Underfull \vbox (badness 7186) has occurred while \output is active []
+[18] [19]) (./chapters/dia06.tex [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21
 
 ]
-[22]) (./chapters/dia06.tex [23] [24]
+[22] [23]) (./chapters/dia07.tex [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25
 
 ]
-[26] [27]) (./chapters/dia07.tex [28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[26] [27]) (./chapters/dia08.tex [28]
+Underfull \vbox (badness 7186) has occurred while \output is active []
 
  [29
 
 ]
-[30] [31]) (./chapters/dia08.tex [32]
+[30] [31]) (./chapters/dia09.tex [32]
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
  [33
 
 ]
-[34] [35]) (./chapters/dia09.tex [36]
-Underfull \vbox (badness 7186) has occurred while \output is active []
-
- [37
-
-]
 Underfull \vbox (badness 7777) has occurred while \output is active []
 
- [38])
-(./chapters/dia10.tex [39] [40
+ [34])
+(./chapters/dia10.tex [35] [36
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+ [37]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-[42] [43]) (./chapters/dia11.tex [44]
+[38] [39]) (./chapters/dia11.tex [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45
+ [41
 
 ]
-[46] [47]) (./chapters/dia12.tex [48]
+[42] [43]) (./chapters/dia12.tex [44]
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
- [49
+ [45
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-[50]) (./chapters/dia13.tex [51] [52]
+[46] [47]) (./chapters/dia13.tex [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49
+
+]
+[50] [51]) (./chapters/dia14.tex [52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53
 
 ]
-[54] [55]) (./chapters/dia14.tex [56]
+[54] [55]) (./chapters/dia15.tex [56]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57
 
 ]
-[58] [59]) (./chapters/dia15.tex [60]
+[58] [59]) (./chapters/dia16.tex [60]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61
 
 ]
-[62] [63]) (./chapters/dia16.tex [64]
+[62] [63]) (./chapters/dia17.tex [64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65
 
 ]
-[66] [67]) (./chapters/dia17.tex [68]
+[66] [67]) (./chapters/dia18.tex [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69
 
 ]
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 17.
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[70] [71]) (./chapters/dia18.tex
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[72]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[70] [71]) (./chapters/dia19.tex [72]
+Underfull \vbox (badness 5607) has occurred while \output is active []
 
  [73
 
 ]
-[74] [75]) (./chapters/dia19.tex [76]
-Underfull \vbox (badness 5607) has occurred while \output is active []
+[74] [75]) (./chapters/dia20.tex [76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [77
 
 ]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[78]) (./chapters/dia20.tex [79]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[80]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[78]) (./chapters/dia21.tex [79] [80]
+Underfull \vbox (badness 7186) has occurred while \output is active []
 
  [81
 
 ]
-[82]) (./chapters/dia21.tex [83] [84
-
-]
-Underfull \vbox (badness 7186) has occurred while \output is active []
-
- [85]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [86]
-[87]) (./chapters/dia22.tex [88]
+ [82]
+[83]) (./chapters/dia22.tex [84]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85
+
+]
+[86]) (./chapters/dia23.tex [87] [88]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [89
 
 ]
-[90]) (./chapters/dia23.tex [91] [92
-
-]
+[90] [91]) (./chapters/dia24.tex [92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+ [93
 
-
-[94] [95]) (./chapters/dia24.tex
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[96]
+]
+[94] [95]) (./chapters/dia25.tex [96]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [97
 
 ]
-[98] [99]) (./chapters/dia25.tex [100]
+[98] [99]) (./chapters/dia26.tex [100]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [101
 
 ]
-[102] [103]) (./chapters/dia26.tex [104]
+[102] [103]) (./chapters/dia27.tex [104]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [105
 
 ]
-[106] [107]) (./chapters/dia27.tex [108]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [109
-
-]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[110] [111]) (./chapters/dia28.tex
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[112]
+[106] [107]) (./chapters/dia28.tex [108]
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
- [113
+ [109
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -818,96 +789,64 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 14.
 
-[114] [115]) (./chapters/dia29.tex [116] [117
+[110] [111]) (./chapters/dia29.tex [112] [113
 
-] [118] [119])
-(./chapters/dia30.tex [120]
+] [114] [115])
+(./chapters/dia30.tex [116]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121
+ [117
 
 ]
-[122] [123]) (./chapters/dia31.tex [124] [125
-
-] [126] [127]) [128]
-(./prayers/end-prayers.tex
-LaTeX Font Info:    Trying to load font information for TS1+yvt on input line 9
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/venturis/ts1yvt.fd
-File: ts1yvt.fd 2010/07/03 Fontinst v1.933 font definitions for TS1/yvt.
+[118] [119]) [120] (./chapters/dia31.tex [121
 
 
-LaTeX Info: Font shape TS1/yvt/mc/n has incorrect series value `mc'.
-            It should not contain an `m'! Please correct it.
-            Found on input line 54.
-
-
-LaTeX Info: Font shape TS1/yvt/mc/sc has incorrect series value `mc'.
-            It should not contain an `m'! Please correct it.
-            Found on input line 58.
-
-
-LaTeX Info: Font shape TS1/yvt/mc/it has incorrect series value `mc'.
-            It should not contain an `m'! Please correct it.
-            Found on input line 62.
-
-
-LaTeX Info: Font shape TS1/yvt/mc/si has incorrect series value `mc'.
-            It should not contain an `m'! Please correct it.
-            Found on input line 66.
-
-
-LaTeX Info: Font shape TS1/yvt/mc/sl has incorrect series value `mc'.
-            It should not contain an `m'! Please correct it.
-            Found on input line 94.
-
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `yvt' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-) (./prayers/ladainha.tex
+] [122] [123]) [124]
+(./prayers/ladainha.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-[129
 
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/venturisadf/ts1-euro-venturisadf
-.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 15--41
-
- []
-
-[130]
-Underfull \hbox (badness 10000) in paragraph at lines 42--63
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 16--42
 
  []
 
-[131]
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[125
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 44--65
 
  []
 
-) (./prayers/credo.tex) (./prayers/salve-rainha.tex
-Underfull \vbox (badness 5504) has occurred while \output is active []
+[126]
+Underfull \hbox (badness 10000) in paragraph at lines 67--76
 
- [132])
-(./prayers/de-profundis.tex) (./prayers/oracao-pelas-almas.tex) [133]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+) (./prayers/credo.tex [127]) (./prayers/salve-rainha.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--17
+
+ []
+
+) (./prayers/de-profundis.tex) (./prayers/oracao-pelas-almas.tex [128])
 
 Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
+(14.56203pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 102.
+(in both cases you will find help in the memoir manual). on input line 119.
 
-[134]
+[129]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -918,20 +857,20 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9789 strings out of 476162
- 156858 string characters out of 5794814
- 1933975 words of memory out of 5000000
- 31181 multiletter control sequences out of 15000+600000
- 714057 words of font info for 327 fonts, out of 8000000 for 9000
+ 9702 strings out of 476162
+ 155580 string characters out of 5794814
+ 1934975 words of memory out of 5000000
+ 31116 multiletter control sequences out of 15000+600000
+ 712517 words of font info for 318 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  85i,12n,93p,2248b,397s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/arkandis/venturis/yvtb8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/arkandis/venturis/yvtr8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/arkandis/venturis/yvtri8a.pfb>
-Output written on main.pdf (142 pages, 312010 bytes).
+Output written on main.pdf (141 pages, 312041 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 327 compressed objects within 4 object streams
+ 475 PDF objects out of 1000 (max. 8388607)
+ 322 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 62465 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 56321 words of extra memory for PDF output out of 61914 (max. 10000000)
 
