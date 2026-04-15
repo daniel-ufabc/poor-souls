@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Terceiro dia &mdash; Existência do Purgatório, parte I
-short: Terceiro dia &mdash; Existência do Purgatório I
+title: Terceiro dia &mdash; Existência do Purgatório I
 display: Terceiro dia
 order: "03"
 ---

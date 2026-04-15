@@ -4,8 +4,8 @@
 \contentsline {chapter}{Véspera do primeiro dia --- Introdução}{vii}{}%
 \contentsline {chapter}{\chapternumberline {1}Primeiro dia --- Santificação deste mês}{1}{}%
 \contentsline {chapter}{\chapternumberline {2}Segundo dia --- O Purgatório}{5}{}%
-\contentsline {chapter}{\chapternumberline {3}Terceiro dia --- Existência do Purgatório, parte I}{9}{}%
-\contentsline {chapter}{\chapternumberline {4}Quarto dia --- Existência do Purgatório, parte II}{13}{}%
+\contentsline {chapter}{\chapternumberline {3}Terceiro dia --- Existência do Purgatório I}{9}{}%
+\contentsline {chapter}{\chapternumberline {4}Quarto dia --- Existência do Purgatório II}{13}{}%
 \contentsline {chapter}{\chapternumberline {5}Quinto dia --- Sofrimentos do Purgatório, a pena do fogo}{17}{}%
 \contentsline {chapter}{\chapternumberline {6}Sexto dia --- A pena da privação}{21}{}%
 \contentsline {chapter}{\chapternumberline {7}Sétimo dia --- A pena do remorso}{25}{}%
@@ -29,7 +29,7 @@
 \contentsline {chapter}{\chapternumberline {25}Vigésimo quinto dia --- Sexto modo de aliviar as almas do Purgatório: a Via Sacra}{97}{}%
 \contentsline {chapter}{\chapternumberline {26}Vigésimo sexto dia --- Sétimo modo de aliviar as almas do Purgatório: as Indulgências }{101}{}%
 \contentsline {chapter}{\chapternumberline {27}Vigésimo sétimo dia --- Oitavo modo de aliviar as almas do Purgatório: o ato heroico de caridade}{105}{}%
-\contentsline {chapter}{\chapternumberline {28}Vigésimo oitavo dia --- Como podemos evitar o Purgatório}{109}{}%
+\contentsline {chapter}{\chapternumberline {28}Vigésimo oitavo dia --- Como evitar o Purgatório}{109}{}%
 \contentsline {chapter}{\chapternumberline {29}Vigésimo nono dia --- As aparições}{113}{}%
 \contentsline {chapter}{\chapternumberline {30}Trigésimo dia --- As últimas vontades dos falecidos}{117}{}%
 \contentsline {chapter}{Conselhos práticos}{121}{}%

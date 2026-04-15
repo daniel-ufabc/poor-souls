@@ -232,6 +232,12 @@ def process_body(text):
             i += 1
             continue
 
+        # -- "Oremos." paragraph — vertical space + no indent ------------------
+        if line.strip().startswith('**Oremos.**'):
+            out.append(r'\vspace{\baselineskip}\noindent ' + convert_inline_line(line.strip()))
+            i += 1
+            continue
+
         # -- Normal line --------------------------------------------------------
         out.append(convert_inline_line(line))
         i += 1
