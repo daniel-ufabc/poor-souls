@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Terceiro dia &mdash; Existência do Purgatório I
+title: Terceiro dia &mdash; Existência do Purgatório, parte I
+short: Terceiro dia &mdash; Existência do Purgatório I
 display: Terceiro dia
 order: "03"
 ---
@@ -12,7 +13,7 @@ order: "03"
 
 ## A Palavra de Deus
 
-A existência do purgatório não é somente uma crença piedosa, que somos livres para aceitar ou rejeitar, é um dogma formal, ensinado pela fé, e que devemos professar sob pena de excomunhão. Sim, _é um pensamento santo e salutar_, diz o Antigo Testamento, _de rezar pelos mortos, afim de que sejam livrados de seus pecados_. Os judeus estavam tão convencidos desta verdade, que eles tinham em seu Ritual uma oração especial que o chefe da família deveria fazer para a libertação dos falecidos antes de se sentarem à mesa.
+A existência do Purgatório não é somente uma crença piedosa, que somos livres para aceitar ou rejeitar, é um dogma formal, ensinado pela fé, e que devemos professar sob pena de excomunhão. Sim, _é um pensamento santo e salutar_, diz o Antigo Testamento, _de rezar pelos mortos, afim de que sejam livrados de seus pecados_. Os judeus estavam tão convencidos desta verdade, que eles tinham em seu Ritual uma oração especial que o chefe da família deveria fazer para a libertação dos falecidos antes de se sentarem à mesa.
 
 Mas escutemos o próprio Jesus Cristo: _"Acertai as contas com vosso adversário, enquanto estais em vida: pois, do contrário, vosso adversário o entregará nas mãos do juiz, e o juiz o entregará ao seu ministro que o lançará na prisão, de onde só saireis quando tiverdes pago vossa dívida até o último centavo."_ Ora, esse adversário, nos diz Santo Agostinho, é o próprio Deus, o inimigo irreconciliável do pecado. Esse juiz inexorável é Jesus Cristo, que se chama, na Escritura, o juiz dos vivos e dos mortos. Enfim, essa prisão temível é o Purgatório, de onde não se pode sair senão depois de ter satisfeito inteiramente à justiça divina.
 
@@ -26,7 +27,7 @@ Meu Deus! Eu creio no Purgatório, como em todos os dogmas que vós ensinais, po
 A fé da igreja não é menos explícita. Veja como a formula o concílio de Trento: _Que seja anátema quem afirma que, após haver recebido a graça da justificação, todo pecador obtém de tal modo a remissão de sua falta e o perdão da pena eterna, que não lhe resta nenhuma dívida temporal a pagar, nem neste mundo nem no outro -- no Purgatório -- antes que lhe seja aberta a entrada do reino dos Céus._ Todos os doutores, gregos e latinos, todos os povos antigos e modernos
 professaram a mesma crença.
 
-De acordo com este ponto de fé, a Igreja, mãe terna e compassiva, reza todos os dias pelas almas do purgatório, e termina cada um de seus ofícios com um clamor de dor e de esperança: _Senhor, dai-lhes o repouso eterno!_ Ela obriga todos os seus sacerdotes a pensar nelas, no santo sacrifício, e recomenda a seus filhos oferecer frequentemente a Deus seus votos, suas esmolas e todas as obras satisfatórias pela libertação de seus irmãos falecidos. Enfim, Ela determinou um solene aniversário, onde chama a cristandade inteira em socorro dos fiéis falecidos. É a comovente festa de dois de novembro.
+De acordo com este ponto de fé, a Igreja, mãe terna e compassiva, reza todos os dias pelas almas do Purgatório, e termina cada um de seus ofícios com um clamor de dor e de esperança: _Senhor, dai-lhes o repouso eterno!_ Ela obriga todos os seus sacerdotes a pensar nelas, no santo sacrifício, e recomenda a seus filhos oferecer frequentemente a Deus seus votos, suas esmolas e todas as obras satisfatórias pela libertação de seus irmãos falecidos. Enfim, Ela determinou um solene aniversário, onde chama a cristandade inteira em socorro dos fiéis falecidos. É a comovente festa de dois de novembro.
 
 Cristãos, como é consolador pensar que após nossa morte, a Igreja estará por nós em orações, que ela convidará todos os seus fiéis a pedir a Deus nossa libertação, que ela não cessará de rezar e de chorar sobre nosso túmulo, senão quando nos tiver introduzido no seio da Igreja triunfante! Ó Igreja católica, como sois boa mãe! Como conheceis a fraqueza de vossos filhos! E como é doce dizer com o poeta:
 

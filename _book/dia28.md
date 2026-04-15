@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vigésimo oitavo dia &mdash; Como podemos evitar o Purgatório"
+title: "Vigésimo oitavo dia &mdash; Como evitar o Purgatório"
 display: Vigésimo oitavo dia
 order: "28"
 ---
