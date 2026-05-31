@@ -1,7 +1,8 @@
 \babel@toc {brazil}{}\relax 
 \contentsline {chapter}{Sum\'ario}{i}{}%
-\contentsline {chapter}{Oração Inicial}{v}{}%
-\contentsline {chapter}{Véspera do primeiro dia --- Introdução}{vii}{}%
+\contentsline {chapter}{Aprovação}{v}{}%
+\contentsline {chapter}{Oração Inicial}{vii}{}%
+\contentsline {chapter}{Véspera do primeiro dia --- Introdução}{ix}{}%
 \contentsline {chapter}{\chapternumberline {1}Primeiro dia --- Santificação deste mês}{1}{}%
 \contentsline {chapter}{\chapternumberline {2}Segundo dia --- O Purgatório}{5}{}%
 \contentsline {chapter}{\chapternumberline {3}Terceiro dia --- Existência do Purgatório I}{9}{}%

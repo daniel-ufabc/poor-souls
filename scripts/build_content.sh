@@ -9,6 +9,7 @@ OUT="book/src/content"
 
 echo "=== Converting includes ==="
 python3 "$SCRIPT" _includes/initial-prayer.md  "$OUT/prayers/initial-prayer.tex"
+python3 "$SCRIPT" _book/aprovacao.md           "$OUT/chapters/aprovacao.tex"
 # python3 "$SCRIPT" _includes/end-prayers.md     "$OUT/prayers/end-prayers.tex"
 
 # echo "=== Converting prayers ==="
