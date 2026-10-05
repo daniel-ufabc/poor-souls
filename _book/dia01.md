@@ -38,7 +38,7 @@ Eis como uma uma pessoa digna de fé conta sua cura extraordinária, obtida pela
 todo o fervor possível, e de concluí-lo com uma boa Comunhão. Os meus pais e as pessoas piedosas que conhecia uniram suas preces às minhas. Cada dia, reunidos à noite em meu quarto, aos pés de uma imagem de São José, pedíamos com confiança duas coisas: a libertação das pobres almas do Purgatório e o alívio dos meus males. Ao final da primeira semana, experimentei uma melhora sensível, que coisa admirável! No último dia do bendito mês, eu estava na igreja, à mesa santa, inebriada de alegria, de felicidade e agradecendo. Minha cura estava completa, não havia sobrado traço algum da doença que me havia torturado por tanto tempo e que, como diziam os próprios médicos, era incurável. Graças sejam 
 dadas às santas almas do Purgatório cuja proteção se manifestou de maneira visível a meu favor!_
 
-Que favores vamos receber também, para nossos fiéis defuntos e para nós mesmos, se praticarmos santamente as devoções deste belo mês! Tendes coragem, e confiança!
+Que favores vamos receber também, para nossos fiéis defuntos e para nós mesmos, se praticarmos santamente as devoções deste belo mês! Tende coragem, e confiança!
 
 **Oremos.** Deus bom e misericordioso, dignai-vos ouvir as fervorosas orações que vos dirigimos durante este mês de bênçãos. Nós vos oferecemos cada dia, cada hora, pelo alívio e libertação dessas almas cativas que suplicam a vós e a nós, do fundo de sua prisão tenebrosa. Senhor, chamai vossos filhos, nossos irmãos, ao repouso eterno. Que a luz que nunca se apaga brilhe sobre eles! Que descansem em paz!
 

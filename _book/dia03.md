@@ -12,7 +12,7 @@ order: "03"
 
 ## A Palavra de Deus
 
-A existência do Purgatório não é somente uma crença piedosa, que somos livres para aceitar ou rejeitar, é um dogma formal, ensinado pela fé, e que devemos professar sob pena de excomunhão. Sim, _é um pensamento santo e salutar_, diz o Antigo Testamento, _o de rezar pelos mortos, afim de que sejam livrados de seus pecados_. Os judeus estavam tão convencidos desta verdade, que eles tinham em seu Ritual uma oração especial que o chefe da família deveria fazer para a libertação dos falecidos antes de se sentarem à mesa.
+A existência do Purgatório não é somente uma crença piedosa, que somos livres para aceitar ou rejeitar, é um dogma formal, ensinado pela fé, e que devemos professar sob pena de excomunhão. Sim, _é um pensamento santo e salutar_, diz o Antigo Testamento, _o de rezar pelos mortos, a fim de que sejam livrados de seus pecados_. Os judeus estavam tão convencidos desta verdade, que eles tinham em seu Ritual uma oração especial que o chefe da família deveria fazer para a libertação dos falecidos antes de se sentarem à mesa.
 
 Mas escutemos o próprio Jesus Cristo: _"Acertai as contas com vosso adversário, enquanto estais em vida: pois, do contrário, vosso adversário o entregará nas mãos do juiz, e o juiz o entregará ao seu ministro que o lançará na prisão, de onde só saireis quando tiverdes pago vossa dívida até o último centavo."_ Ora, esse adversário, nos diz Santo Agostinho, é o próprio Deus, o inimigo irreconciliável do pecado. Esse juiz inexorável é Jesus Cristo, que se chama, na Escritura, o juiz dos vivos e dos mortos. Enfim, essa prisão temível é o Purgatório, de onde não se pode sair senão depois de ter satisfeito inteiramente à justiça divina.
 

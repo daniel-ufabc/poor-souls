@@ -13,14 +13,14 @@ Na verdade, essas almas não podem mais ganhar mérito, elas já terminaram a ca
 Um grande número de teólogos, entre outros Santo Afonso de Ligório, São Roberto Belarmino, Suárez, ensinam que podemos legitimamente e de maneira muito útil invocar as almas do Purgatório para obter de Deus as graças e os favores de que necessitamos, seja para a alma, seja para o corpo. 
 
 Santa Teresa tinha o costume de dizer que tudo o que ela pedia a Deus, pela intercessão dos fiéis defuntos, lhe era concedido. Santa Catarina de Bolonha disse: 
-> _Quando quero muito obter uma graça, eu recorro a essas almas sofredoras, afim de que elas apresentem meu pedido ao Senhor, e a graça é sempre alcançada._
+> _Quando quero muito obter uma graça, eu recorro a essas almas sofredoras, a fim de que elas apresentem meu pedido ao Senhor, e a graça é sempre alcançada._
 
 Ela assegurava que havia recebido pela intercessão dos mortos até mesmo favores que não lhe tinham sido concedidos pela intercessão dos santos.
 
 Enfim, o Santo Cura d'Ars disse um dia: 
 > _Se soubéssemos quão grande é o poder das almas do Purgatório e quantas graças podemos obter de Deus por sua intercessão, elas não seriam tão esquecidas! Rezemos bem por elas, para que elas rezem muito por nós._
 
-Há certos favores temporais que parecem estar particularmente reservados à essas boas almas: a cura de uma doença grave, a proteção contra um perigo, a vitória num processo, o sucesso de um empreendimento importante, a feliz celebração de uma aliança honrosa... Deus sabe o quanto os homens dão importância a esses bens de segunda ordem, e os colocou, por assim dizer, à disposição das almas padecentes, afim de nos animar a procurar-lhes os mais abundantes alívios.
+Há certos favores temporais que parecem estar particularmente reservados à essas boas almas: a cura de uma doença grave, a proteção contra um perigo, a vitória num processo, o sucesso de um empreendimento importante, a feliz celebração de uma aliança honrosa... Deus sabe o quanto os homens dão importância a esses bens de segunda ordem, e os colocou, por assim dizer, à disposição das almas padecentes, a fim de nos animar a procurar-lhes os mais abundantes alívios.
 
 Temos tudo a ganhar, portanto, ao trocarmos assim nossas orações pelas orações de nossos irmãos falecidos. É admirável a economia da Providência! É tocante o mistério da Comunhão dos Santos! Ao mesmo tempo em que nós os aliviamos através das orações e que nós os livramos do cativeiro, eles oferecem a Deus por nós as suas lágrimas, seus suspiros, seus sofrimentos, seus méritos de outrora, suas súplicas insistentes, e Deus derrama sobre nós as mais abundantes bençãos, espirituais e temporais.
 
