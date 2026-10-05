@@ -15,7 +15,7 @@ Vossos herdeiros! Eles estarão talvez &mdash; infelizmente &mdash; mais ávidos
 
 > _Sobre as asas do tempo, a tristeza voa._
 
-Não sabeis que que o esquecimento dos mortos abrange quase todo o mundo, e que sua memória finda quase sempre quando os sinos param de bater? Não sabeis que, em matéria de salvação, não se pode confiar em ninguém além de si mesmo? Aproveitai, pois, o conselho do autor da _Imitação_:
+Não sabeis que o esquecimento dos mortos abrange quase todo o mundo, e que sua memória finda quase sempre quando os sinos param de bater? Não sabeis que, em matéria de salvação, não se pode confiar em ninguém além de si mesmo? Aproveitai, pois, o conselho do autor da _Imitação_:
 
 > _Não conte em nada com vossos amigos, nem com vossos próximos, pois eles vos esquecerão mais rápido do que pensais; se agora não vos ocupeis de vós mesmos, quem se ocupará de vós quando tiverdes partido?_
 
